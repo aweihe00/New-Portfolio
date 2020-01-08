@@ -1,9 +1,9 @@
 .demo-layout-transparent {
-    background: url('email-pattern.png');
+    background: url("images/email-pattern.png");
   }
   .demo-layout-transparent .mdl-layout__header,
   .demo-layout-transparent .mdl-layout__drawer-button {
-    color: red;
+    color: black;
   }
   
   i {

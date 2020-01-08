@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function (event) {  //waits for pa
     $("#content-area").empty();
     //create static image html copied below
     const logo = $("<img>");
-    logo.attr("src", "assets/Capture.png").attr("alt", "AY logo");
+    logo.attr("src", "assets/images/logos.png").attr("alt", "AY logo");
     logo.attr("id", "logo-main");
 
     const welcome = $("<div>");
