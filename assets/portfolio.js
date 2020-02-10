@@ -28,5 +28,5 @@ const portfolio = [
         tagline: "An application that allows you to devour some good burgers",
         url: "https://glacial-inlet-43552.herokuapp.com/",
         type: "coding"
-      }
+      },
   ];
