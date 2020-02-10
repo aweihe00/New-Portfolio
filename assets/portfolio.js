@@ -23,4 +23,10 @@ const portfolio = [
         url: "https://github.com/aweihe00/Weather-Dashboard",
         type: "coding"
       },
+      {
+        title: "Eat Da Burger",
+        tagline: "An application that allows you to devour some good burgers",
+        url: "https://glacial-inlet-43552.herokuapp.com/",
+        type: "coding"
+      }
   ];
