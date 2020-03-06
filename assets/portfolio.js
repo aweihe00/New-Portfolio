@@ -29,4 +29,10 @@ const portfolio = [
         url: "https://glacial-inlet-43552.herokuapp.com/",
         type: "coding"
       },
+      {
+        title: "Star-Dogs",
+        tagline: "An app for your dog's very own personal horoscope",
+        url: "https://sleepy-retreat-96731.herokuapp.com/",
+        type: "coding"
+      }
   ];
